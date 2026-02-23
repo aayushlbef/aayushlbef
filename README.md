@@ -1,5 +1,5 @@
 # 💫 About Me:
-A tech-savvy🧑‍🎓student who see's the 💭dream to become world most💡talented tech👨‍💻 expert. <br>I am still in 🏫learning phase. But i can asura you that on some 🌤️day I will accomplish💪 my dream.<br>In my 🛣️journey I have learned various new ⚙️technologies and gained lot's of 🫨experience. I know that to accomplish my dream that not 🤚enough. So, I will always looks ⏩forward to seek 📖Knowledge.<br><br>
+A tech-savvy🧑‍🎓student who see's the 💭dream to become world most💡talented tech👨‍💻 expert. <br>I am still in 🏫learning phase. But i can asura you that on some 🌤️day I will accomplish💪 my dream.<br>In my 🛣️journey I have learned various new ⚙️technologies and gained lot's of 🫨experience. I know that to accomplish my dream that's not 🤚enough. So, I will always looks ⏩forward to seek 📖Knowledge.<br><br>
 
 
 ## 🌐 Socials:
