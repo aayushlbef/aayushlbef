@@ -6,7 +6,7 @@
 
 # aayushlbef
 
-About Me: A tech-savvy student who's hobby and passion is same to learn about new technologies. In my journey, I have learned various new technologies and gained lots of experience. And always looks forward to seek techie knowledge.
+A tech-savvy student who's hobby and passion is same to learn about new technologies. In my journey, I have learned various new technologies and gained lots of experience. And always looks forward to seek techie knowledge.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushkgupta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Gup_technology) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayush.gupta@study.lbef.edu.np)
